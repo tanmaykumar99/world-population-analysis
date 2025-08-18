@@ -36,7 +36,7 @@ You also need:
 2. Run all cells to fetch and visualize data.
 
 ## Example Output
-The notebook generates plots showing crypto price trends and summary tables of API data.
+The notebook generates plots showing population data analysis and correlations.
 
 ![Pandas Dataframe](images/df.png)
 
